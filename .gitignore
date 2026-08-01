@@ -1,0 +1,23 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+
+# 凭据（绝不提交）
+*.p12
+*.cer
+*.mobileprovision
+*.key
+
+# 参考文档目录：仅供本地建库参考，不纳入公开仓库
+/refer/
