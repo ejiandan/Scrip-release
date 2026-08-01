@@ -1,38 +1,35 @@
-# 锦囊 (Scrip)
+# Scrip (锦囊)
 
-> 让便携设备的文字输入更简单 —— 本地优先、不采集数据的一键输入工具。
+🌐 **English** | [简体中文](README.zh-CN.md)
 
-锦囊把你常用的文字（地址、话术、账号信息、模板、链接等）分类收好，
-在任意 App 的输入框里通过自定义键盘一键输入，无需手打或反复复制粘贴。
-所有数据只保存在设备本地，不上传、不采集；默认离线，仅在你开启「网址处理」时访问你填写的网址。
+> Simpler text input for portable devices — a local-first, one-tap input tool that never collects your data.
 
-> 本仓库（`Scrip-release`）是锦囊的公开信息与文档库：托管各平台的隐私政策、许可协议、更新日志等公开文档，
-> 并通过 [Issues](../../issues) 接收用户反馈与问题报告，便于用户查验「本地优先、不采集数据」的隐私承诺，跟踪版本发布情况。
+Scrip lets you organize your frequently used text (addresses, scripts, account info, templates, links, etc.) into categories,
+and type it anywhere with one tap via a custom keyboard — no more manual typing or repeated copy-pasting.
+All data is stored locally on your device only, never uploaded or collected; the app is offline by default and only accesses the URLs you've entered when you enable "URL Processing".
 
-## ✨ 功能特性
+> This repository (`Scrip-release`) is Scrip's public information and documentation hub: it hosts public documents such as privacy policies and changelogs for each platform,
+> and collects user feedback and issue reports via [Issues](../../issues) — so anyone can verify the "local-first, no data collection" privacy commitment and track releases.
 
-- 📁 分类收纳：按场景把常用文字归类管理
-- ⌨️ 自定义键盘：任意输入框一键输入，告别手打
-- 🔗 链接处理：网址自动识别、清理与规整
-- 📊 使用统计：完全本地、不含隐私的使用计数
-- 🔒 隐私优先：只存本机、默认离线、不采集、键盘不记录
-- 🌍 多语言：English / 简体中文 / 繁體中文 / 日本語 / 한국어 / Español / Deutsch / Français
+## ✨ Features
 
-## 🗂 目录结构
+- 📁 Categorized storage: organize frequently used text by scenario
+- ⌨️ Custom keyboard: one-tap input in any text field, no more manual typing
+- 🔗 Link processing: automatic URL recognition, cleanup, and formatting
+- 📊 Usage statistics: fully local, privacy-free usage counters
+- 🔒 Privacy-first: local storage only, offline by default, no data collection, keyboard never logs input
+- 🌍 Multi-language UI: English / Simplified Chinese / Traditional Chinese / Japanese / Korean / Spanish / German / French
 
-- `iOS/` — iOS 平台的隐私政策等公开文档（后续会按平台新增对应目录，如 `Android/`）
-- `CHANGELOG.md` — 版本更新日志
-- `LICENSE` — 开源许可协议
+## 🗂 Repository Structure
 
-## 🔐 隐私说明
+- `iOS/` — Privacy policy and other public documents for the iOS platform (more platform folders, e.g. `Android/`, will be added over time)
+- `CHANGELOG.md` — Version changelog
 
-锦囊不收集、不上传任何用户数据，所有内容仅保存在设备本地。
-详见 [隐私政策（简体中文）](iOS/PrivacyPolicy.zh-CN.md) / [Privacy Policy (English)](iOS/PrivacyPolicy.en.md)。
+## 🔐 Privacy
 
-## 💬 反馈
+Scrip does not collect or upload any user data — everything stays on your device.
+See [Privacy Policy (English)](iOS/PrivacyPolicy.en.md) / [隐私政策（简体中文）](iOS/PrivacyPolicy.zh-CN.md).
 
-如有问题或建议，欢迎提交 [Issue](../../issues)。
+## 💬 Feedback
 
-## 📄 许可协议
-
-本项目基于 MIT 许可证开源，详见 [LICENSE](LICENSE)。
+Questions or suggestions are welcome via [Issues](../../issues).
