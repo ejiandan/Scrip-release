@@ -25,6 +25,10 @@ All data is stored locally on your device only, never uploaded or collected; the
 - `iOS/` — Privacy policy and other public documents for the iOS platform (more platform folders, e.g. `Android/`, will be added over time)
 - `CHANGELOG.md` — Version changelog
 
+## 🧪 Beta Testing
+
+The iOS version is now in Beta testing. Join via TestFlight: https://testflight.apple.com/join/a4znnchm
+
 ## 🔐 Privacy
 
 Scrip does not collect or upload any user data — everything stays on your device.

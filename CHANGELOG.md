@@ -2,6 +2,12 @@
 
 本项目遵循语义化版本（Semantic Versioning）。
 
+## [Unreleased]
+
+### Beta 测试
+
+- iOS 版本进入 Beta 测试，欢迎通过 TestFlight 加入体验：https://testflight.apple.com/join/a4znnchm
+
 ## [1.0.0] - 2026-07-31
 
 ### 新增

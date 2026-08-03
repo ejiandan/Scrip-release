@@ -25,6 +25,10 @@
 - `iOS/` — iOS 平台的隐私政策等公开文档（后续会按平台新增对应目录，如 `Android/`）
 - `CHANGELOG.md` — 版本更新日志
 
+## 🧪 Beta 测试
+
+iOS 版本已进入 Beta 测试，欢迎通过 TestFlight 加入体验：https://testflight.apple.com/join/a4znnchm
+
 ## 🔐 隐私说明
 
 锦囊不收集、不上传任何用户数据，所有内容仅保存在设备本地。
