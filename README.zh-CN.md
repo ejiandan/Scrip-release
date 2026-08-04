@@ -2,7 +2,7 @@
 
 🌐 [English](README.md) | **简体中文**
 
-![锦囊头图](assets/hero.png)
+![锦囊头图](assets/hero.zh-CN.png)
 
 > 管理重复文字，而不是重新输入它。
 
