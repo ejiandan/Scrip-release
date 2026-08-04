@@ -4,6 +4,10 @@
 
 ![锦囊头图](assets/hero.zh-CN.png)
 
+[![iOS](https://img.shields.io/badge/iOS-Beta-000000?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/a4znnchm)
+[![TestFlight](https://img.shields.io/badge/TestFlight-Join%20Beta-34C759?style=flat-square&logo=testflight&logoColor=white)](https://testflight.apple.com/join/a4znnchm)
+![Privacy](https://img.shields.io/badge/Privacy-100%25%20Local-4CAF50?style=flat-square)
+
 > 管理重复文字，而不是重新输入它。
 
 锦囊是一款面向手机、平板等便携设备的本地优先文字复用工具。
